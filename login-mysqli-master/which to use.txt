@@ -1,0 +1,4 @@
+use home1
+dbcon,index,session,style.css
+just go with the linking of files which is denoted by function
+include_once("filename.php")
